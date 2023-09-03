@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "htttps://Liebe3.github.io/Grocery-List/",
+  "homepage": "https://Liebe3.github.io/Grocery-List/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
