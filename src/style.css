@@ -78,6 +78,20 @@ button {
   padding-bottom: 15px;
 }
 
+.btn{
+  display: flex;
+}
+
+@media screen and (max-width: 550px){
+  .btn{
+    display: flex;
+    flex-direction: column;
+  }
+  .increDecre-container{
+    margin-bottom: 10px;
+  }
+}
+
 .grocery-list li:last-child {
   border-bottom: none;
 }
